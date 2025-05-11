@@ -1,0 +1,6 @@
+@LibrarianAdminPortal_HostAddress = http://localhost:5288
+
+GET {{LibrarianAdminPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
